@@ -17,6 +17,7 @@ Welcome to the Multi-Turn Conversational AI Bot project! This project leverages 
 conversational_ai_bot/ ├── pycache/ ├── .env ├── api_caller.py ├── bot_builder.py ├── conversation.py ├── customer_service_bot_config.json ├── customer_service_bot.py ├── LICENSE ├── main.py ├── repository/ │ ├── file1.py │ └── file2.py ├── repository_handler.py └── requirements.txt
 
 
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -28,8 +29,8 @@ conversational_ai_bot/ ├── pycache/ ├── .env ├── api_caller.py
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/conversational_ai_bot.git
-    cd conversational_ai_bot
+    git clone https://github.com/fncreator22/Development-of-a-Multi-Turn-Conversational-AI-Bot.git
+    cd Development-of-a-Multi-Turn-Conversational-AI-Bot
     ```
 
 2. **Install dependencies**:
@@ -38,7 +39,7 @@ conversational_ai_bot/ ├── pycache/ ├── .env ├── api_caller.py
     ```
 
 3. **Set up environment variables**:
-    Create a [.env](http://_vscodecontentref_/10) file in the root directory and add your OpenAI API key:
+    Create a `.env` file in the root directory and add your OpenAI API key:
     ```properties
     OPENAI_API_KEY=your_openai_api_key
     ```
@@ -60,16 +61,16 @@ conversational_ai_bot/ ├── pycache/ ├── .env ├── api_caller.py
 ## 🛠️ Files and Directories
 
 - **`api_caller.py`**: Contains functions to make API calls.
-- **[bot_builder.py](http://_vscodecontentref_/11)**: Functions to gather website information and build the bot configuration.
-- **[conversation.py](http://_vscodecontentref_/12)**: Main script to build or interact with the bot.
-- **[customer_service_bot.py](http://_vscodecontentref_/13)**: Core logic for responding to user queries.
+- **`bot_builder.py`**: Functions to gather website information and build the bot configuration.
+- **`conversation.py`**: Main script to build or interact with the bot.
+- **`customer_service_bot.py`**: Core logic for responding to user queries.
 - **`repository_handler.py`**: Functions to handle code repository queries.
 - **`customer_service_bot_config.json`**: Configuration file for the bot.
 - **`requirements.txt`**: List of dependencies.
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](http://_vscodecontentref_/14) file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📧 Contact
 
@@ -77,4 +78,4 @@ For any questions or suggestions, please contact [support@split-money-app.com](m
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [fncreator22](https://github.com/fncreator22)
